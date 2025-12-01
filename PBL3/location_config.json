@@ -1,0 +1,20 @@
+{
+    "pump_1": {
+        "name": "Bơm 1 (Lấy mẫu)",
+        "target_lat": "16.060021",
+        "target_lng": "108.226104",
+        "current_lat": "16.0595",
+        "current_lng": "108.2115",
+        "status": "Đang di chuyển...",
+        "last_updated": "2025-12-01 04:37:37"
+    },
+    "pump_2": {
+        "name": "Bơm 2 (Đổ hóa chất)",
+        "target_lat": "16.057609",
+        "target_lng": "108.225825",
+        "current_lat": "16.0610",
+        "current_lng": "108.2125",
+        "status": "Đang di chuyển...",
+        "last_updated": "2025-12-01 04:37:37"
+    }
+}
